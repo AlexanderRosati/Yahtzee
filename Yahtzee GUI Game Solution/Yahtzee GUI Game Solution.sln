@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahtzee GUI Game", "Yahtzee GUI Game\Yahtzee GUI Game.csproj", "{9ADAEB00-055A-41EE-AFB2-9C1E6E7DAEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{3E96D304-1976-4609-A5F0-6738B1B9CEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADAEB00-055A-41EE-AFB2-9C1E6E7DAEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADAEB00-055A-41EE-AFB2-9C1E6E7DAEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADAEB00-055A-41EE-AFB2-9C1E6E7DAEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADAEB00-055A-41EE-AFB2-9C1E6E7DAEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E96D304-1976-4609-A5F0-6738B1B9CEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E96D304-1976-4609-A5F0-6738B1B9CEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E96D304-1976-4609-A5F0-6738B1B9CEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E96D304-1976-4609-A5F0-6738B1B9CEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F9B0C68-6529-45F6-A6A4-A548E99C24F5}
+	EndGlobalSection
+EndGlobal
