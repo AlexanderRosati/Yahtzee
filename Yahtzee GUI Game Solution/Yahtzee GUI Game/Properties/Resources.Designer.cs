@@ -63,6 +63,16 @@ namespace Yahtzee_GUI_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ANOTHER_DICE_BACKGROUND1 {
+            get {
+                object obj = ResourceManager.GetObject("ANOTHER_DICE_BACKGROUND1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bigger_background {
             get {
                 object obj = ResourceManager.GetObject("bigger_background", resourceCulture);
@@ -146,16 +156,6 @@ namespace Yahtzee_GUI_Game.Properties {
         internal static System.Drawing.Bitmap end_message {
             get {
                 object obj = ResourceManager.GetObject("end_message", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap FUCKING_HUMONGOUS_DICE_BACKGROUND {
-            get {
-                object obj = ResourceManager.GetObject("FUCKING_HUMONGOUS_DICE_BACKGROUND", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -266,7 +266,7 @@
             this.endMessageLabel.BackColor = System.Drawing.Color.Transparent;
             this.endMessageLabel.Font = new System.Drawing.Font("Showcard Gothic", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.endMessageLabel.ForeColor = System.Drawing.Color.White;
-            this.endMessageLabel.Image = global::Yahtzee_GUI_Game.Properties.Resources.FUCKING_HUMONGOUS_DICE_BACKGROUND;
+            this.endMessageLabel.Image = global::Yahtzee_GUI_Game.Properties.Resources.ANOTHER_DICE_BACKGROUND1;
             this.endMessageLabel.Location = new System.Drawing.Point(31, 44);
             this.endMessageLabel.Name = "endMessageLabel";
             this.endMessageLabel.Size = new System.Drawing.Size(113, 44);
